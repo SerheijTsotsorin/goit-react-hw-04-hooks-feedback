@@ -39,6 +39,7 @@ build/Release
 build
 .vscode
 .husky
+6
 
 # Dependency directories
 node_modules/
